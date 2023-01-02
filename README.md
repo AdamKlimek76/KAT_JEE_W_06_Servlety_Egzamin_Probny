@@ -85,7 +85,7 @@ W servlecie dostępnym pod adresem **/receiver** napisz kod, który odbierze te 
     - składa się tylko z małych liter
     - ma rozszerzenie (gif, jpg, png),
     - ma kropkę przed rozszerzeniem np.: cat.jpg
-3. Jeżeli parametr spełnia warunki to przekieruj do adresu **https://www.google.pl/#q=cat.jpg** zamieniając `cat.jpg` wartością parametru.
+3. Jeżeli parametr spełnia warunki to przekieruj do adresu **https://www.google.pl/#q=cat.jpg	** zamieniając `cat.jpg` wartością parametru.
 4. Jeżeli parametr nie spełnia warunków wyświetl komunikat: "Niepoprawna nazwa".
  Komunikat wyświetl w następujący sposób:
     ````
